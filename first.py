@@ -1,1 +1,2 @@
-print("hello git_world")
+for i in range(0,2):
+    print("hello git_world")
